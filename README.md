@@ -19,6 +19,11 @@ I'm an aspiring Software Engineer and passionate Web Developer from KIIT UNIVERS
 
 ## 📌 Featured Projects
 
+
+### 🎯 [Contact Manager](https://github.com/Asmit2004/contact-manager):  
+  A basic CRUD app built using PHP and MySQL for managing contact records with a simple UI.
+
+
 ### 🔌 [WordPress Plugin – Welcome Message](https://github.com/Asmit2004/wp-welcome-plugin)
 Adds a personalized welcome message to each blog post. Built using PHP and WordPress plugin architecture.
 
