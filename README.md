@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Asmit Jana!
 
-I'm an aspiring Software Engineer and passionate Web Developer from KIIT UNIVERSITY with a strong interest in open-source and full-stack web development. I'm currently exploring WordPress development, PHP, and JavaScript while building real-world projects to sharpen my skills.
+I'm an aspiring Software/AI Engineer and passionate about data science from KIIT UNIVERSITY with a strong interest in Data analytics , database management, Deep
+Learning, machine learning, NLP, Computer Vision and GenAI . Fond of using latest AI tools to make tasks easier through prompts. I have used different AI tools to master the knowledge of WebDev and can create projects within minutes. I'm currently exploring Machine Learning and Deep learning techniques to train models using my own knowledge as well as using the best prompts.  
 
 ---
 
@@ -14,6 +15,12 @@ I'm an aspiring Software Engineer and passionate Web Developer from KIIT UNIVERS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0A8FDC?style=flat-square&logo=spacy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-29B6F6?style=flat-square&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-800080?style=flat-square&logo=openai&logoColor=white)
+
 
 ---
 
