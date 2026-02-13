@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Asmit Jana!
 
-I'm an aspiring Software/AI Engineer and passionate about data science from KIIT UNIVERSITY with a strong interest in Data analytics , database management, Deep
-Learning, machine learning, NLP, Computer Vision and GenAI . Fond of using latest AI tools to make tasks easier through prompts. I have used different AI tools to master the knowledge of WebDev and can create projects within minutes. I'm currently exploring Machine Learning and Deep learning techniques to train models using my own knowledge as well as using the best prompts.  
+Aspiring Software Developer with strong foundations in Data Structures, Algorithms, OOP, and Database Management Systems. Experienced in building full-stack applications and developing scalable backend services. Proficient in writing clean, maintainable, and efficient code while following industry best practices.
+Strong problem-solving mindset with hands-on experience in modern development workflows. Passionate about contributing to real-world production systems and continuously improving engineering skills in collaborative environments.  
 
 ---
 
